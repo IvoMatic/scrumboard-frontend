@@ -1,0 +1,10 @@
+export const CLEAR_SKY = "https://images.pexels.com/photos/96622/pexels-photo-96622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260";
+export const FEW_CLOUDS = "https://images.pexels.com/photos/53594/blue-clouds-day-fluffy-53594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260";
+export const NO_WEATHER = "https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260";
+export const SCATTERED_CLOUDS = "https://images.pexels.com/photos/844112/pexels-photo-844112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260";
+export const BROKEN_CLOUDS = "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260";
+export const SHOWER_RAIN = "https://images.pexels.com/photos/1553/glass-rainy-car-rain.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260";
+export const RAIN = "https://images.pexels.com/photos/110874/pexels-photo-110874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260";
+export const THUNDERSTORM = "https://images.pexels.com/photos/2418664/pexels-photo-2418664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260";
+export const SNOW = "https://images.pexels.com/photos/1003124/pexels-photo-1003124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260";
+export const MIST = "https://images.pexels.com/photos/5230/road-fog-foggy-mist.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500";
